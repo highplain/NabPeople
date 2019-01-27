@@ -1,5 +1,6 @@
 Notes last updated : 27/1/2019.
 Author : Cameron Young.
+Version 1.001
 
 To run the application execute NabPeople.ConsoleApp.
 This is a C# console application.
