@@ -1,0 +1,19 @@
+
+Please write some code to consume the attached json and output a list of all the cats in alphabetical order under two headings (male, female) as per the owner’s gender.
+
+You can use any libraries/frameworks/SDKs of your choice.
+
+Example:
+Male
+•           Angel
+•           Molly
+•           Tigger
+Female
+•           Gizmo
+•           Jasper
+
+Notes
+•           Use industry best practices
+•           Use the code to showcase your skill.
+•           Please submit by 5:00PM Monday, 28/01/2019 via Github to PeopleBank which will be submitted before 9AM Tuesday 29/01/2019
+
